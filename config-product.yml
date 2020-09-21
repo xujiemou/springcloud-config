@@ -1,1 +1,2 @@
-
+config:
+  info: "master brach,spring cloud/config-product.yml version=1" 
